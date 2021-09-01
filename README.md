@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 👋 Hi, I’m Gyan Prakash, working in banking sector </br>
 🔭 I’m currently working on a Fitness App to engage fitness enthusiasts in this current pandemic. </br>
 🌱 I’m currently learning Website Development and Programming Skills to create a full end to end solution. </br>
+👯 I’m looking to collaborate on Projects
 📫 How to reach me: gyanp218@yahoo.com </br>
 😄 Pronouns: He/Him </br>
 ⚡ Fun fact: Foodie 
