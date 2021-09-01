@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 </p>
 
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring my repositories!</h3>
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring my repositories</h3>
 
 
