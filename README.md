@@ -20,10 +20,6 @@ Here are some ideas to get you started:
 ⚡ Fun fact: Foodie 
 
 
-<!--Trap--:)-->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 **GitHub Stats🎯**<br>
 
 <img width="20%" src="https://profile-counter.glitch.me/{johnrambo-code}/count.svg" /> 
