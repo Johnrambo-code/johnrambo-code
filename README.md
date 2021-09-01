@@ -5,19 +5,24 @@ or use it. It helps me a lot.
 
 <h2>HELLO ALL! WELCOME TO MY GITHUB PROFILE👇<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2><br>
 
+![Alt text of image](<https://github.com/Johnrambo-code/johnrambo-code/blob/main/Profile/GyanPrakash-Cover.jpg>)
+
 <!--
 **Johnrambo-code/johnrambo-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 
-👋 Hi, I’m Gyan Prakash, working in banking sector </br>
+👋 Hi, I’m Gyan Prakash, working in banking sector. </br>
 🔭 I’m currently working on a Fitness App to engage fitness enthusiasts in this current pandemic. </br>
 🌱 I’m currently learning Website Development and Programming Skills to create a full end to end solution. </br>
-👯 I’m looking to collaborate on Projects
+👯 I’m looking to collaborate on Projects. </br>
 📫 How to reach me: gyanp218@yahoo.com </br>
 😄 Pronouns: He/Him </br>
 ⚡ Fun fact: Foodie 
+
+<!--Trap--:)-->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
 **GitHub Stats🎯**<br>
